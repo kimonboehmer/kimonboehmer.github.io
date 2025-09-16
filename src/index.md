@@ -62,7 +62,6 @@ I am a PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https:/
 ``` json {.paper}
 "title": "PACE Solver Description: Arcee",
 "authors": "Kimon Boehmer, Ferdinand Ermel, Fanny Hauser, Jesse Palarus",
-//"awards": "Automatic Award",
 "venue": "9th International Symposium on Parameterized and Exact Computation (IPEC 2024)",
 "year": "2024",
 "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf"
