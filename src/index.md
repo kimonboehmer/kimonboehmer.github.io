@@ -3,7 +3,7 @@ title: Kimon Boehmer
 author: Kimon Boehmer
 shortbio: PhD student in computer science
 description-meta: PhD student in computer science
-og-url: https://kimon-boehmer.com
+og-url: https://kimonboehmer.github.io
 location: Unknown yet
 email: unknown-yet@ens-psl.eu
 picture: img/profile.png
@@ -16,18 +16,14 @@ dblp: https://dblp.org/pid/383/9718.html
 scholar: https://scholar.google.com/citations?user=1C1-Vz0AAAAJ
 hal: https://hal.science/
 mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+github: kimonboehmer
 footer: >-
-  Based on the
-  [basicpage template](https://github.com/basicpage/basicpage.github.io),
-  made to be easy to use! 🎓
+  Based on the [basicpage template](https://github.com/basicpage/basicpage.github.io) by Yannick Forster and Théo Winterhalter.
 ---
 
-I am a PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https://www.ens-lyon.fr/LIP/)--> under the supervision of [Chien-Chung Huang](https://www.di.ens.fr/~cchuang/) and [Alantha Newman](https://pagesperso.g-scop.grenoble-inp.fr/~newmana/), working on combinatorial optimization, specifically approximation algorithms for allocation and clustering problems. My research interests also include computational social choice, algorithmic bioinformatics, algorithm engineering, submodular optimization and graph theory. I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and with the [MC2](https://www.ens-lyon.fr/LIP/MC2/) group in Lyon.
+I am a PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https://www.ens-lyon.fr/LIP/)--> under the supervision of [Chien-Chung Huang](https://www.di.ens.fr/~cchuang/) and [Alantha Newman](https://pagesperso.g-scop.grenoble-inp.fr/~newmana/), working on combinatorial optimization, specifically approximation algorithms for allocation and clustering problems.  
+My research interests also include computational social choice, algorithmic bioinformatics, algorithm engineering, submodular optimization and graph theory.  
+I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and with the [MC2](https://www.ens-lyon.fr/LIP/MC2/) group in Lyon.
 
 
 # Publications
@@ -71,20 +67,17 @@ I am a PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https:/
 
 ``` json {.paper}
 "title": "Bachelor thesis",
-"year": "2023",
-"url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf"
+"year": "2023"
 ```
 
 ``` json {.paper}
 "title": "M1 internship report",
-"year": "2024",
-"url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf"
+"year": "2024"
 ```
 
 ``` json {.paper}
 "title": "M2 internship report",
-"year": "2025",
-"url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf"
+"year": "2025"
 ```
 
 <!--## Talks
@@ -110,13 +103,13 @@ I am a PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https:/
 
 # Education
 
-- 2025: Master Parisien de Recherche en Informatique (MPRI) in Paris.
-- 2023: Bachelor in Computer Science at TU Berlin.
+- 2025: Master Parisien de Recherche en Informatique ([MPRI](https://mpri-master.ens.fr/)) in Paris.
+- 2023: Bachelor in Computer Science at [TU Berlin](https://tu.berlin).
 - 2020: Abitur at Gymnasium Steglitz, Berlin.
 
 # Teaching
 
-- Student assistant with teaching assignment at [MTV](), [TU Berlin](tu.berlin), for Formal languages and automata
+- Student assistant with teaching assignment at [MTV](), TU Berlin, for Formal languages and automata
 - Student assistant with teaching assignment at [AKT](), TU Berlin, for Computability Complexity
 - Student assistant with teaching assignment at AKT, TU Berlin, for Algorithm Theory
 <!--# Community service
