@@ -4,7 +4,7 @@ author: Kimon Boehmer
 shortbio: PhD student in computer science
 description-meta: PhD student in computer science
 og-url: https://kimonboehmer.github.io
-location: Unknown yet
+location: Paris / Lyon
 email: unknown-yet@ens-psl.eu
 picture: img/profile.png
 picture-round: false
@@ -103,6 +103,12 @@ I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and
 # Education
 
 - 2025: Master Parisien de Recherche en Informatique ([MPRI](https://mpri-master.ens.fr/)) in Paris.
+``` json
+"files": [
+  { "text": "M1 internship report", "type": "pdf", "src": "files/Internship_Report_T4.pdf" },
+  { "text": "M2 internship report", "type": "pdf", "src": "files/internship_report_kimon_boehmer.pdf" }
+]
+```
 - 2023: Bachelor in Computer Science at [TU Berlin](https://tu.berlin).
 - 2020: Abitur at Gymnasium Steglitz, Berlin.
 
