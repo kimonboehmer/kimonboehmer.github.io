@@ -1,19 +1,19 @@
 ---
-title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
-og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
+title: Kimon Boehmer
+author: Kimon Boehmer
+shortbio: PhD student in computer science
+description-meta: PhD student in computer science
+og-url: https://kimon-boehmer.com
+location: Unknown yet
+email: unknown-yet@ens-psl.eu
 picture: img/profile.png
 picture-round: false
 side-by-side: true
-pronouns: They/Them
+pronouns: He/Him
 og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
+dblp: https://dblp.org/pid/383/9718.html
+scholar: https://scholar.google.com/citations?user=1C1-Vz0AAAAJ
 hal: https://hal.science/
 mastodon: https://lipn.info
 github: basicpage
@@ -27,122 +27,68 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+I am a PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https://www.ens-lyon.fr/LIP/)--> under the supervision of [Chien-Chung Huang](https://www.di.ens.fr/~cchuang/) and [Alantha Newman](https://pagesperso.g-scop.grenoble-inp.fr/~newmana/), working on combinatorial optimization, specifically approximation algorithms for allocation and clustering problems. My research interests also include computational social choice, algorithmic bioinformatics, algorithm engineering, submodular optimization and graph theory. I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and with the [MC2](https://www.ens-lyon.fr/LIP/MC2/) group in Lyon.
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
-
-> [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
 
 # Publications
 
 ## Conference papers
 
 ``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
+"title": "RNA Triplet Repeats: Improved Algorithms for Structure Prediction and Interactions",
+"authors": "Kimon Boehmer, Sarah Berkemer, Sebastian Will, Yann Ponty",
+"venue": "WABI 2024-24th Workshop on Algorithms in Bioinformatics",
 "year": "2024",
-"url": "https://basicpage.github.io"
-```
-
-``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"awards": "Automatic Award",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
+"url": "https://hal.science/hal-04766560/file/rna_triplet_algorithms_almob-5.pdf",
 "files": [
   { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
   { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
+  { "text": "Slides", "type": "code", "src": "foo.v" }
 ]
 ```
-
-## Journal papers
-
-``` yaml {.paper}
-title: Yet another yaml parser 3
-authors: Templato Urnehm
-awards: 
-  - Yet another "Yet another" award
-  - Never-ending Work Award
-venue: Proceedings of Nihilism
-year: 2029
-url: https://basicpage.github.io
-files:
-  - text: Paper
-    type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
-```
-
-``` yaml {.papers}
-papers:
-  - title: Yet another yaml parser 2
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2027
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-  - title: Yet another yaml parser
-    authors: Templato Urnehm
-    awards: Yet another "Yet another" award
-    venue: Proceedings of Nihilism
-    year: 2025
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-      - text: Some link
-        type: link
-        src: fake.link.xyz
-      - text: Repo
-        type: git
-        src: github.com
-```
-
 ``` json {.paper}
-"title": "How to tame your wagon",
-"authors": "Templato Urnehm",
-"venue": "Journal of Automatic Rejection (JAR)",
-"year": "2022"
-```
-
-## Drafts
-
-``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"awards": [
-  "Best Draft Award",
-  "Test-of-time Award for works which just never leave the draft stage"
-],
+"title": "Worst-and average-case robustness of stable matchings:(Counting) complexity and experiments",
+"authors": "Kimon Boehmer, Niclas Boehmer",
+"venue": "ECAI 2024",
+"year": "2024",
+"url": "https://arxiv.org/pdf/2408.09160",
 "files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
+  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
+  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
+  { "text": "Poster", "type": "pdf", "src": "foo.v" }
 ]
 ```
 
-## Talks
+``` json {.paper}
+"title": "PACE Solver Description: Arcee",
+"authors": "Kimon Boehmer, Ferdinand Ermel, Fanny Hauser, Jesse Palarus",
+//"awards": "Automatic Award",
+"venue": "9th International Symposium on Parameterized and Exact Computation (IPEC 2024)",
+"year": "2024",
+"url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf"
+```
+
+## Theses and reports
+
+``` json {.paper}
+"title": "Bachelor thesis",
+"year": "2023",
+"url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf"
+```
+
+``` json {.paper}
+"title": "M1 internship report",
+"year": "2024",
+"url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf"
+```
+
+``` json {.paper}
+"title": "M2 internship report",
+"year": "2025",
+"url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf"
+```
+
+<!--## Talks
 
 ``` json {.papers}
 {
@@ -161,20 +107,21 @@ papers:
   "venue": "Don't remember…",
   "year": "???"
 }
-```
+```-->
 
 # Education
 
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+- 2025: Master Parisien de Recherche en Informatique (MPRI) in Paris.
+- 2023: Bachelor in Computer Science at TU Berlin.
+- 2020: Abitur at Gymnasium Steglitz, Berlin.
 
 # Teaching
 
-- I am teaching the TD sessions on the 👽 science course.
-
-# Community service
+- Student assistant with teaching assignment at [MTV](), [TU Berlin](), for Formal languages and automata
+- Student assistant with teaching assignment at [AKT](), TU Berlin, for Computability Complexity
+- Student assistant with teaching assignment at AKT, TU Berlin, for Algorithm Theory
+<!--# Community service
 
 - 32 reviews for Journal of Awesomeness.
 - 1 review for a cool conference.
-- PC member of the journal of my school.
+- PC member of the journal of my school.-->
