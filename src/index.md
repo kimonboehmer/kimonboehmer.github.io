@@ -117,7 +117,7 @@ I am a PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https:/
 
 # Teaching
 
-- Student assistant with teaching assignment at [MTV](), [TU Berlin](), for Formal languages and automata
+- Student assistant with teaching assignment at [MTV](), [TU Berlin](tu.berlin), for Formal languages and automata
 - Student assistant with teaching assignment at [AKT](), TU Berlin, for Computability Complexity
 - Student assistant with teaching assignment at AKT, TU Berlin, for Algorithm Theory
 <!--# Community service
