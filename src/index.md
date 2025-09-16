@@ -59,24 +59,11 @@ I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and
 "authors": "Kimon Boehmer, Ferdinand Ermel, Fanny Hauser, Jesse Palarus",
 "venue": "9th International Symposium on Parameterized and Exact Computation (IPEC 2024)",
 "year": "2024",
-"url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf"
-```
-
-## Theses and reports
-
-``` json {.paper}
-"title": "Bachelor thesis",
-"year": "2023"
-```
-
-``` json {.paper}
-"title": "M1 internship report",
-"year": "2024"
-```
-
-``` json {.paper}
-"title": "M2 internship report",
-"year": "2025"
+"url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf",
+"files": [
+  { "text": "Paper", "type": "pdf", "src": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf" },
+  { "text": "Code", "type": "code", "src": "https://github.com/f-erm/CliqueCoverBasedVertexCoverSolver" }
+]
 ```
 
 <!--## Talks
@@ -102,21 +89,17 @@ I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and
 
 # Education
 
-- 2025: Master Parisien de Recherche en Informatique ([MPRI](https://mpri-master.ens.fr/)) in Paris.
-``` json
-"files": [
-  { "text": "M1 internship report", "type": "pdf", "src": "files/Internship_Report_T4.pdf" },
-  { "text": "M2 internship report", "type": "pdf", "src": "files/internship_report_kimon_boehmer.pdf" }
-]
-```
-- 2023: Bachelor in Computer Science at [TU Berlin](https://tu.berlin).
+- 2025: Master Parisien de Recherche en Informatique ([MPRI](https://mpri-master.ens.fr/)) in Paris.  
+[M1 internship report](files/Internship_Report_T4.pdf), [M2 internship report](files/internship_report_kimon_boehmer.pdf)
+- 2023: Bachelor in Computer Science at [TU Berlin](https://www.tu.berlin).  
+[Bachelor Thesis](files/Abschlussarbeit.pdf)
 - 2020: Abitur at Gymnasium Steglitz, Berlin.
 
 # Teaching
 
-- Student assistant with teaching assignment at [MTV](), TU Berlin, for Formal languages and automata
-- Student assistant with teaching assignment at [AKT](), TU Berlin, for Computability Complexity
-- Student assistant with teaching assignment at AKT, TU Berlin, for Algorithm Theory
+- 2022: Student assistant with teaching assignment at [MTV](https://www.tu.berlin/mtv), TU Berlin, for Formal languages and automata
+- 2022-2023: Student assistant with teaching assignment at [AKT](https://www.tu.berlin/akt), TU Berlin, for Computability Complexity
+- 2023: Student assistant with teaching assignment at AKT, TU Berlin, for Algorithm Theory
 <!--# Community service
 
 - 32 reviews for Journal of Awesomeness.
