@@ -10,12 +10,11 @@ picture: img/profile.png
 picture-round: false
 side-by-side: true
 pronouns: He/Him
-og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
+# (og-picture: https://basicpage.github.io/img/profile.png)
+# (orcid: 0000-0000-0000-0000)
 dblp: https://dblp.org/pid/383/9718.html
 scholar: https://scholar.google.com/citations?user=1C1-Vz0AAAAJ
-hal: https://hal.science/
-mastodon: https://lipn.info
+hal: https://hal.science/search/index/?q=*&authFullName_s=Kimon%20Boehmer
 github: kimonboehmer
 footer: >-
   Based on the [basicpage template](https://github.com/basicpage/basicpage.github.io) by Yannick Forster and Théo Winterhalter.
