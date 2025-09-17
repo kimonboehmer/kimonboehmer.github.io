@@ -9,7 +9,6 @@ email: unknown-yet@ens-psl.eu
 picture: img/profile.png
 picture-round: false
 side-by-side: true
-pronouns: He/Him
 # (og-picture: https://basicpage.github.io/img/profile.png)
 # (orcid: 0000-0000-0000-0000)
 dblp: https://dblp.org/pid/383/9718.html
@@ -20,9 +19,10 @@ footer: >-
   Based on the [basicpage template](https://github.com/basicpage/basicpage.github.io) by Yannick Forster and Théo Winterhalter.
 ---
 
-I am a PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https://www.ens-lyon.fr/LIP/)--> under the supervision of [Chien-Chung Huang](https://www.di.ens.fr/~cchuang/) and [Alantha Newman](https://pagesperso.g-scop.grenoble-inp.fr/~newmana/), working on combinatorial optimization, specifically approximation algorithms for allocation and clustering problems.  
+I am a first-year PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https://www.ens-lyon.fr/LIP/)--> under the supervision of [Chien-Chung Huang](https://www.di.ens.fr/~cchuang/) and [Alantha Newman](https://pagesperso.g-scop.grenoble-inp.fr/~newmana/), working on combinatorial optimization, specifically approximation algorithms for allocation and clustering problems.  
 My research interests also include computational social choice, algorithmic bioinformatics, algorithm engineering, submodular optimization and graph theory.  
-I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and with the [MC2](https://www.ens-lyon.fr/LIP/MC2/) group in Lyon.
+I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and with the [MC2](https://www.ens-lyon.fr/LIP/MC2/) group in Lyon.  
+If you are interested to talk, feel free to reach out!
 
 
 # Publications
@@ -42,7 +42,7 @@ I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and
 ]
 ```
 ``` json {.paper}
-"title": "Worst-and average-case robustness of stable matchings:(Counting) complexity and experiments",
+"title": "Worst-and average-case robustness of stable matchings: (Counting) complexity and experiments",
 "authors": "Kimon Boehmer, Niclas Boehmer",
 "venue": "ECAI 2024",
 "year": "2024",
@@ -62,11 +62,11 @@ I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and
 "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf",
 "files": [
   { "text": "Paper", "type": "pdf", "src": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol321-ipec2024/LIPIcs.IPEC.2024.33/LIPIcs.IPEC.2024.33.pdf" },
-  { "text": "Code", "type": "code", "src": "https://github.com/f-erm/CliqueCoverBasedVertexCoverSolver" }
+  { "text": "Code", "type": "code", "src": "https://github.com/lucidLuckylee/pace_2024" }
 ]
 ```
 
-<!--## Talks
+<!--## Talks  https://github.com/f-erm/CliqueCoverBasedVertexCoverSolver
 
 ``` json {.papers}
 {
