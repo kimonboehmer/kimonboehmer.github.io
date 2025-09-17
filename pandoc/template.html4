@@ -57,9 +57,9 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
   <link rel="manifest" href="/img/site.webmanifest" />
 </head>
-<body style="background-color:rgba(247, 191, 119, 0.5);>
+<body style="background-color:rgba(235, 219, 198, 0.5)>
   $if(side-by-side)$
-  <header class="split">
+  <header class="split" style=align:center">
   $else$
   <header>
   $endif$
