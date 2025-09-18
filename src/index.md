@@ -20,9 +20,9 @@ footer: >-
 ---
 
 I am a first-year PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https://www.ens-lyon.fr/LIP/)--> under the supervision of [Chien-Chung Huang](https://www.di.ens.fr/~cchuang/) and [Alantha Newman](https://pagesperso.g-scop.grenoble-inp.fr/~newmana/), working on combinatorial optimization, specifically approximation algorithms for allocation and clustering problems.  
-My research interests also include computational social choice, algorithmic bioinformatics, algorithm engineering, submodular optimization and graph theory.  
+My research interests also include computational social choice, algorithmic bioinformatics, algorithm engineering, submodular optimization and graph theory.
+I am happy to discuss about any of these topics anytime.  
 I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and with the [MC2](https://www.ens-lyon.fr/LIP/MC2/) group in Lyon.  
-If you are interested to talk, feel free to reach out!
 
 
 # Publications
