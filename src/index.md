@@ -92,9 +92,9 @@ I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and
 # Education
 
 - 2025: Master Parisien de Recherche en Informatique ([MPRI](https://mpri-master.ens.fr/)) in Paris.  
-[M1 internship report](files/Internship_Report_T4.pdf), [M2 internship report](files/internship_report_kimon_boehmer.pdf)
+[M1 internship report](files/theses/Internship_Report_T4.pdf), [M2 internship report](files/theses/internship_report_kimon_boehmer.pdf)
 - 2023: Bachelor in Computer Science at [TU Berlin](https://www.tu.berlin).  
-[Bachelor Thesis](files/Abschlussarbeit.pdf)
+[Bachelor Thesis](files/theses/Abschlussarbeit.pdf)
 - 2020: Abitur at [Gymnasium Steglitz](https://www.gymnasiumsteglitz.de), Berlin.
 
 # Teaching
