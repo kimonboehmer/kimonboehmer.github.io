@@ -39,7 +39,7 @@ I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and
   { "text": "Paper", "type": "pdf", "src": "files/papers/triplet_repeats.pdf" },
   { "text": "Bibtex", "type": "bib", "src": "files/bib/triplet_repeats.bib" },
   { "text": "Slides", "type": "pdf", "src": "files/slides/triplet_repeats_slides.pdf" },
-  { "text": "Code", "type": "code", "src": "https://github.com/kimonboehmer/soupfol" }
+  { "text": "Code", "type": "code", "src": "https://github.com/kimonboehmer/soupfold" }
 ]
 ```
 ``` json {.paper}
