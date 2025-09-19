@@ -9,7 +9,7 @@ email: unknown-yet@ens-psl.eu
 picture: img/profile.png
 picture-round: false
 side-by-side: true
-# (og-picture: https://basicpage.github.io/img/profile.png)
+# (og-picture: https://basicpage.github.io/img/profile.jpg)
 # (orcid: 0000-0000-0000-0000)
 dblp: https://dblp.org/pid/383/9718.html
 scholar: https://scholar.google.com/citations?user=1C1-Vz0AAAAJ
@@ -100,8 +100,8 @@ I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and
 # Teaching
 
 - 2023: Student assistant with teaching assignment at [AKT](https://www.tu.berlin/akt), TU Berlin, for Algorithm Theory
-- 2022-2023: Student assistant with teaching assignment at AKT, TU Berlin, for Computability Complexity
-- 2022: Student assistant with teaching assignment at [MTV](https://www.tu.berlin/mtv), TU Berlin, for Formal languages and automata
+- 2022-2023: Student assistant with teaching assignment at AKT, TU Berlin, for Computability and Complexity
+- 2022: Student assistant with teaching assignment at [MTV](https://www.tu.berlin/mtv), TU Berlin, for Formal languages and Automata
 
 
 <!--# Community service
