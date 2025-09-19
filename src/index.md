@@ -5,11 +5,11 @@ shortbio: PhD student in computer science
 description-meta: PhD student in computer science
 og-url: https://kimonboehmer.github.io
 location: Paris / Lyon
-email: kbohmer@ens-paris-saclay.fr (provisional)
-picture: img/profile.png
+email: kbohmer 'at' ens-paris-saclay.fr (provisional)
+picture: img/profile.jpg
 picture-round: false
 side-by-side: true
-# (og-picture: https://basicpage.github.io/img/profile.jpg)
+# (og-picture: https://basicpage.github.io/img/profile.png)
 # (orcid: 0000-0000-0000-0000)
 dblp: https://dblp.org/pid/383/9718.html
 scholar: https://scholar.google.com/citations?user=1C1-Vz0AAAAJ
