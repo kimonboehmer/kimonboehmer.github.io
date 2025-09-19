@@ -5,7 +5,7 @@ shortbio: PhD student in computer science
 description-meta: PhD student in computer science
 og-url: https://kimonboehmer.github.io
 location: Paris / Lyon
-email: unknown-yet@ens-psl.eu
+email: kbohmer@ens-paris-saclay.fr (provisional)
 picture: img/profile.png
 picture-round: false
 side-by-side: true
@@ -19,7 +19,7 @@ footer: >-
   Based on the [basicpage template](https://github.com/basicpage/basicpage.github.io) by Yannick Forster and Théo Winterhalter.
 ---
 
-I am a first-year PhD student at [DI ENS](https://www.di.ens.fr/)<!--and [LIP Lyon](https://www.ens-lyon.fr/LIP/)--> under the supervision of [Chien-Chung Huang](https://www.di.ens.fr/~cchuang/) and [Alantha Newman](https://pagesperso.g-scop.grenoble-inp.fr/~newmana/), working on combinatorial optimization, specifically approximation algorithms for allocation and clustering problems.  
+I am a first-year PhD student at [DI ENS](https://www.di.ens.fr/), starting in October 2025, <!--and [LIP Lyon](https://www.ens-lyon.fr/LIP/)--> under the supervision of [Chien-Chung Huang](https://www.di.ens.fr/~cchuang/) and [Alantha Newman](https://pagesperso.g-scop.grenoble-inp.fr/~newmana/), working on combinatorial optimization, specifically approximation algorithms for allocation and clustering problems.  
 My research interests also include computational social choice, algorithmic bioinformatics, algorithm engineering, submodular optimization and graph theory.
 I am happy to discuss about any of these topics anytime.  
 I am affiliated with the [TALGO](https://www.di.ens.fr/talgo) group in Paris and with the [MC2](https://www.ens-lyon.fr/LIP/MC2/) group in Lyon.  
